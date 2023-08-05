@@ -21,6 +21,7 @@ Recursion is a programming technique where a method calls itself to solve a prob
 Example
 Suppose you enter the number 5. The application will calculate the factorial as follows:
 5! = 5 * 4 * 3 * 2 * 1 = 120
+
 The Factorial of the number 5 is 120
 Contributing
 If you find any issues or want to suggest improvements, feel free to open an issue or submit a pull request.
