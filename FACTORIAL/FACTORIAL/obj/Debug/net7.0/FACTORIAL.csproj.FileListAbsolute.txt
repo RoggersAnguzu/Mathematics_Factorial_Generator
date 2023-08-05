@@ -1,0 +1,15 @@
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\bin\Debug\net7.0\FACTORIAL.exe
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\bin\Debug\net7.0\FACTORIAL.deps.json
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\bin\Debug\net7.0\FACTORIAL.runtimeconfig.json
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\bin\Debug\net7.0\FACTORIAL.dll
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\bin\Debug\net7.0\FACTORIAL.pdb
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\obj\Debug\net7.0\FACTORIAL.csproj.AssemblyReference.cache
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\obj\Debug\net7.0\FACTORIAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\obj\Debug\net7.0\FACTORIAL.AssemblyInfoInputs.cache
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\obj\Debug\net7.0\FACTORIAL.AssemblyInfo.cs
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\obj\Debug\net7.0\FACTORIAL.csproj.CoreCompileInputs.cache
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\obj\Debug\net7.0\FACTORIAL.dll
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\obj\Debug\net7.0\refint\FACTORIAL.dll
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\obj\Debug\net7.0\FACTORIAL.pdb
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\obj\Debug\net7.0\FACTORIAL.genruntimeconfig.cache
+D:\A Wpf Projects\FACTORIAL\FACTORIAL\obj\Debug\net7.0\ref\FACTORIAL.dll
